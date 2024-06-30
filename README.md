@@ -1,4 +1,4 @@
-# SQLite_Container_with_PV
+# All about SQLite, Docker and PV's
 Template for creating docker based container with an SQLite DB and a PV Storage
 
 
