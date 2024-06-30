@@ -1,6 +1,7 @@
 # Process for CI/CD Pipeline
 
-## 1. Create a Dockerfile: Define your container environment and dependencies in a Dockerfile. This file specifies how to build your application into a container image.
+## 1. Create a Dockerfile: 
+Define your container environment and dependencies in a Dockerfile. This file specifies how to build your application into a container image.
 
 ## 2. Setup CI/CD Pipeline:
 
